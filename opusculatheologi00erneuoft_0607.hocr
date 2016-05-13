@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./opusculatheologi00erneuoft_0607.png"; bbox 0 0 1650 3060; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 55 875 1498 1326">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 55 875 1498 1326">
+     <span class='ocr_line' id='line_1_1' title="bbox 462 875 1110 1056; baseline -0.003 -22"><span class='ocrx_word' id='word_1_1' title='bbox 462 875 1110 1056; x_wconf 59' lang='grc' dir='ltr'><strong>ΕΜΕΝΒΒῘΤῙΟΝΕ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 97 1106 1498 1213; baseline 0 -18"><span class='ocrx_word' id='word_1_2' title='bbox 97 1108 153 1195; x_wconf 90' lang='lat' dir='ltr'>S</span> <span class='ocrx_word' id='word_1_3' title='bbox 241 1107 320 1195; x_wconf 92' lang='lat' dir='ltr'>C</span> <span class='ocrx_word' id='word_1_4' title='bbox 403 1106 488 1195; x_wconf 92' lang='lat' dir='ltr'>H</span> <span class='ocrx_word' id='word_1_5' title='bbox 594 1108 682 1205; x_wconf 87' lang='lat' dir='ltr'>O</span> <span class='ocrx_word' id='word_1_6' title='bbox 767 1109 839 1196; x_wconf 93' lang='lat' dir='ltr'>L</span> <span class='ocrx_word' id='word_1_7' title='bbox 914 1107 1002 1196; x_wconf 93' lang='lat' dir='ltr'><strong>A</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1078 1108 1157 1196; x_wconf 93' lang='lat' dir='ltr'><strong>R</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1222 1107 1313 1213; x_wconf 18' lang='lat' dir='ltr'><strong>‘V</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1396 1106 1498 1195; x_wconf 94' lang='lat' dir='ltr'>M</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 55 1262 935 1326; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 55 1262 58 1264; x_wconf 71' lang='grc'>’</span> <span class='ocrx_word' id='word_1_12' title='bbox 318 1298 324 1303; x_wconf 95' lang='grc'><strong>-</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 727 1280 875 1326; x_wconf 84' lang='lat' dir='ltr'><strong>PER</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 929 1298 935 1299; x_wconf 27' lang='lat' dir='ltr'><em>ff</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 529 1382 1098 1432">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 529 1382 1098 1432">
+     <span class='ocr_line' id='line_1_4' title="bbox 529 1382 1098 1432; baseline 0 -2"><span class='ocrx_word' id='word_1_15' title='bbox 529 1382 1098 1432; x_wconf 67' lang='lat' dir='ltr'>LVTHERVM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 40 3060">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 40 3060">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 40 3060; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 40 3060; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
